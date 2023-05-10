@@ -1,1 +1,3 @@
-- 🌱 超级小白一枚
+- 🌱 Data science bachelor
+- 💥 AI follower
+- 🤗 NLP freshman
