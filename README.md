@@ -50,5 +50,4 @@ I'm an **Undergrad Student🎓 [@ECNU](https://www.ecnu.edu.cn)** pursuing DS. I
 
 
 ### 🚀 Github stats
-![Mattian's github stats](https://github-readme-stats.vercel.app/api?username=mattian7&show_icons=true&hide_border=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattian7&layout=compact&langs_count=8"/>
+![Mattian's github stats](https://github-readme-stats.vercel.app/api?username=mattian7&show_icons=true&hide_border=true&theme=react)
