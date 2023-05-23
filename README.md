@@ -3,9 +3,9 @@
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mattian7/)](https://github.com/mattian7/) 
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-%23C51935?style=flat-square&logo=Kaggle&logoColor=blue)](https://www.kaggle.com/matthewtian/)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-%23C51935?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/matthewtian/)
 [![Hexo Badge](https://img.shields.io/badge/-Blog-blueviolet?style=flat-square&logo=Hexo&logoColor=white)](https://mattian7.github.io/)
-[![Zhihu Badge](https://img.shields.io/badge/-Zhihu-9cf?style=flat-square&logo=Zhihu&logoColor=black)](https://www.zhihu.com/people/feng-shan-gui-qi-16)
+[![Zhihu Badge](https://img.shields.io/badge/-Zhihu-%2300B388?style=flat-square&logo=Zhihu&logoColor=lightgrey)](https://www.zhihu.com/people/feng-shan-gui-qi-16)
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
