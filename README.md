@@ -53,7 +53,7 @@ I'm an **Undergrad Student🎓 [@ECNU](https://www.ecnu.edu.cn)** pursuing DS. I
 
 <img width="350px" src="https://github-readme-stats.vercel.app/api?username=mattian7&show_icons=true&hide_border=true&theme=react&bg_color=DEG,034260,C70606" align=right>
 
-<img src="https://raw.githubusercontent.com/mattian7/mattian7/main/github-metrics.svg" align=left>
+<img width="400px" src="https://raw.githubusercontent.com/mattian7/mattian7/main/github-metrics.svg" align=left>
 
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattian7&layout=compact&hide_border=true&bg_color=DEG,340926,C14560&theme=nord" align=right>
 
