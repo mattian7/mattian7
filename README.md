@@ -8,32 +8,47 @@
 [![Zhihu Badge](https://img.shields.io/badge/-Zhihu-%2300B388?style=flat-square&logo=Zhihu&logoColor=lightgrey)](https://www.zhihu.com/people/feng-shan-gui-qi-16)
 
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@ECNU](https://www.ecnu.edu.cn)** pursuing DS. I'm a **AI Freshman 💻 🤗** passionate about learning and working with new artificial intelligence 💡. I love to leverage new tech to solve real-life problems **or** just create some funny things ✨. <br/><br/>
+## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm an **Undergrad Student🎓 [@ECNU](https://www.ecnu.edu.cn)** pursuing DS. I'm a **AI Freshman 💻 🤗** passionate about learning and working with new artificial intelligence 💡. I love to leverage new tech to solve real-life problems **or** just create some fun things ✨. <br/><br/>
 
 
 
 
 ## ⚡️ A Few Quick Facts
+<img width="300" height="350" src="https://media.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.gif" align=right>
 
 - 🔭 I’m currently working on NLP Project
 - 🎓 I’m currently pursuing my bachelor degree 
-<img width="490" height="270" src="https://giphy.com/gifs/JIX9t2j0ZTN9S" align=right>
-
-- <img src="https://giphy.com/gifs/emote-catjam-jpbnoe3UIa8TU8LM13" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Deep Learning & Data Science
+  - 🖼 Natural Language Processing
   - 🤖 Robotics
 - 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 🤔 I’m looking for help with Devops
-- 💬 Ask me about Python, ML, CV, Raspi
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
-- 🌱 Data science bachelor
-- 💥 AI follower
-- 🤗 NLP freshman
+- 👯 I’m looking to collaborate on working NLP projects about LLM and AIGC
+- 💬 Ask me about Python, DL, NLP
+- 📙 Check out my [Resume](https://mattian7.github.io/about/)
+- 🎉 Fun-Fact: I ❤️ watching NFL and NBA and all-kinds of Movies🎬
+- 🎮 Madden NFL, Hades, Inscryption, LoL
+- 📫 Reach me: 10205501430@stu.ecnu.edu.cn
+- 🥰 I‘m searching for a PHD opportunity, if you're interested in me, please contact me! Pleaseeeeeee!
+<br/><br/>
 
+### 🖥️ My DevSetup
+<img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> <br/><br/>
+
+### 🧰 Languages and Tools
+
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/mattian7/figure/main/img/pytorch.png"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
+<code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code> <br/><br/>
+
+
+### 🚀 Github stats
 ![Mattian's github stats](https://github-readme-stats.vercel.app/api?username=mattian7&show_icons=true&hide_border=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattian7&layout=compact&langs_count=8"/>
