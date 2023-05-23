@@ -9,7 +9,7 @@
 
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@ECNU](https://www.ecnu.edu.cn)** pursuing DS. I'm a **AI Freshman 💻 🤗** passionate about learning and working with new artificial intelligence 💡. I love to leverage new tech to solve real-life problems **or** just create some fun things ✨. <br/><br/>
+I'm an **Undergrad Student🎓 [@ECNU](https://www.ecnu.edu.cn)** pursuing DS. I'm an **AI Freshman 💻 🤗** passionate about learning and working with new artificial intelligence 💡. I love to leverage new tech to solve real-life problems **or** just create some fun things ✨. <br/><br/>
 
 
 
