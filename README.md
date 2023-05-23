@@ -9,7 +9,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓 [@ECNU](https://www.ecnu.edu.cn)** pursuing DS. I'm a **AI Freshman 💻 🤗** passionate about learning and working with new artificial intelligence 💡. I love to leverage new tech to solve real-life problems **or** just create some funny things ✨. <br/><br/>
 
 
 
@@ -17,10 +17,10 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently learning Java ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+- 🎓 I’m currently pursuing my bachelor degree 
+<img width="490" height="270" src="https://giphy.com/gifs/JIX9t2j0ZTN9S" align=right>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+- <img src="https://giphy.com/gifs/emote-catjam-jpbnoe3UIa8TU8LM13" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
   - 🛠 DIY Raspberry Pi Projects
